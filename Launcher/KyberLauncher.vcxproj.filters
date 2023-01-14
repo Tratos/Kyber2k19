@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\eisba\OneDrive\Desktop\Kyber\Kyber\Launcher\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\eisba\OneDrive\Desktop\Kyber\Kyber\Launcher\Libraries\Sources\imgui\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\eisba\OneDrive\Desktop\Kyber\Kyber\Launcher\Libraries\Sources\imgui\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\eisba\OneDrive\Desktop\Kyber\Kyber\Libraries\Sources\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\eisba\OneDrive\Desktop\Kyber\Kyber\Libraries\Sources\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\eisba\OneDrive\Desktop\Kyber\Kyber\Libraries\Sources\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\eisba\OneDrive\Desktop\Kyber\Kyber\Libraries\Sources\imgui\imgui_impl_dx11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\eisba\OneDrive\Desktop\Kyber\Kyber\Libraries\Sources\imgui\imgui_impl_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\eisba\OneDrive\Desktop\Kyber\Kyber\Libraries\Sources\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\eisba\OneDrive\Desktop\Kyber\Kyber\Libraries\Sources\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\eisba\OneDrive\Desktop\Kyber\Kyber\Launcher\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5448B064-AB56-3A8C-BD15-19D6B389D3C7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

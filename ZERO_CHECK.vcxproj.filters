@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\eisba\OneDrive\Desktop\Kyber\Kyber\CMakeFiles\83120e59708d707b34aba9bac82dcbdb\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B0DC1C40-60DE-31C8-AD7F-5FF42DB55723}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
